@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: #000;
+  overflow: hidden;
+}
+
+#cam {
+  display: none;
+}
+
+#canvas {
+  width: 100vw;
+  height: 100vh;
+}

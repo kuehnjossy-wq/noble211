@@ -1,0 +1,10 @@
+web-avatar/
+ ├── index.html
+ ├── main.js
+ ├── manifest.json
+ ├── style.css
+ ├── avatar_base.png
+ ├── avatar_eyes_open.png
+ ├── avatar_eyes_closed.png
+ ├── avatar_mouth_open.png
+ └── README.txt
